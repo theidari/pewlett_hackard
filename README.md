@@ -3,7 +3,7 @@
 <img src="https://github.com/theidari/sql-challenge/blob/main/RF.png" width="96">
 </p>
 <p align="center">
-<img src="https://github.com/theidari/sql-challenge/blob/main/linemain1.png" width="800">
+<img src="https://github.com/theidari/sql-challenge/blob/main/linemain1.png" width="900">
 </p>
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
