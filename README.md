@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/theidari/sql-challenge/blob/main/heder1.png" width="415"><img src="https://github.com/theidari/sql-challenge/blob/main/OP.png" width="160">
+<img src="https://github.com/theidari/sql-challenge/blob/main/heder1.png" width="332"><img src="https://github.com/theidari/sql-challenge/blob/main/OP.png" width="128">
 
 </p>
 
