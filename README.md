@@ -1,5 +1,6 @@
 <p align="left">
-<img src="https://github.com/theidari/sql-challenge/blob/main/heder1.png" width="400">
+<img src="https://github.com/theidari/sql-challenge/blob/main/heder1.png" width="415"><img src="https://github.com/theidari/sql-challenge/blob/main/OP.png" width="160">
+
 </p>
 
 It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
