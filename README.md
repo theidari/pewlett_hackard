@@ -12,7 +12,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 
 This Challenge is divided into three parts:</br>
-
+<p align="center">
 $\space \mathtt{\color{purple}1.}$ Data Modeling
 $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
+</p>
