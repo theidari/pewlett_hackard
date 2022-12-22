@@ -11,7 +11,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 
-This Challenge is divided into three parts:
+This project is divided into three parts:
 <p align="center">
 $\space \mathtt{\color{purple}1.}$ Data Modeling
 $\space \mathtt{\color{purple}2.}$ Data Engineering
