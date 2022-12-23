@@ -17,3 +17,6 @@ $\space \mathtt{\color{purple}1.}$ Data Modeling
 $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
 </p>
+
+<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" width="900">
+
