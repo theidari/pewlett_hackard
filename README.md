@@ -20,3 +20,4 @@ $\space \mathtt{\color{purple}3.}$ Data Analysis
 
 <img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" width="900">
 
+<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" alt="AwsDiagram" data-canonical-src="https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&amp;name=aws.svg" style="max-width: 100%;">
