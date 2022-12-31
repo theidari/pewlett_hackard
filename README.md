@@ -18,6 +18,6 @@ $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
 </p>
 
-<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" width="900">
-
-<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" alt="AwsDiagram" data-canonical-src="https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&amp;name=aws.svg" style="max-width: 100%;">
+<p align="center">
+<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" width="900px" height="500px">
+</p>
