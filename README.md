@@ -20,5 +20,5 @@ $\space \mathtt{\color{purple}3.}$ Data Analysis
 
 Create $\space \mathtt{\color{purple}E}$ ntity $\space \mathtt{\color{purple}R}$ elationship $\space \mathtt{\color{purple}D}$ iagram
 <p align="center">
-<img src="https://raw.githubusercontent.com/theidari/sql-challenge/8ccfec4d4c7651e988ce77ec30968b2172a3fa8a/OutputData/Pewlett%20Hackard%20ERD.svg" width="1100px" height="500px">
+<img src="https://raw.githubusercontent.com/theidari/sql-challenge/77abfdda38573ef62a75b2e2326de7114bedfba0/OutputData/Entity%20Relationship%20Diagram/Pewlett_Hackard_ERD.svg" width="760px" height="500px">
 </p>
