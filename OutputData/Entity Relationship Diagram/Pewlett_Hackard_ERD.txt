@@ -1,0 +1,53 @@
+# Pewlett Hackard Entity Relationship Diagram (ERD)
+# sql challenge - U of T Data Analytics Boot Camp
+Department
+-----------------------------------------------------------------------------------------------------
+# Department Number "Primary Keys, A FIXED length string e.g. d001"
+dept_no PK CHAR(4)
+# Department Name "A VARIABLE length string e.g. Marketing"
+dept_name VARCHAR(30)
+
+Department_Employees
+-----------------------------------------------------------------------------------------------------
+# Employees Number "Foreign Keys, Share unique keys with Employees.emp_no one TO one"
+emp_no FK - Employees.emp_no INT
+# Department Number "Foreign Keys, Share unique keys with Department.dept_no many TO one"
+dept_no FK >- Department.dept_no CHAR(4)
+    
+Department_Managers
+-----------------------------------------------------------------------------------------------------
+# Employees Number "Foreign Keys, Share unique keys with Employees.emp_no many TO one"
+emp_no FK >- Employees.emp_no INT
+# Department Number "Foreign Keys, Share unique keys with Department.dept_no many TO one"
+dept_no FK >- Department.dept_no CHAR(4)
+    
+Salaries
+-----------------------------------------------------------------------------------------------------
+# Employees Number  "Foreign Keys, Share unique keys with Employees.emp_no one TO one"
+emp_no FK - Employees.emp_no INT
+# Employees salary "Integer e.g. 54916"
+salary INT(money)
+    
+Employees
+-----------------------------------------------------------------------------------------------------
+# Employees Number "Primary Keys, Integer e.g. 475053"
+emp_no PK INT
+# Employees title ID "Foreign Keys, Share unique keys with Titles.title_id many TO one"
+emp_title_id FK >- Titles.title_id CHAR(5)
+# Employees date of birth "A date. Format: MM/DD/YYYY"
+birth_date DATE
+# Employees first name "A VARIABLE length string e.g. Berry"
+first_name VARCHAR(255)
+# Employees first name "A VARIABLE length string e.g. Babb"
+last_name VARCHAR(255)
+# Employees gender "A string e.g. M"
+sex TEXT(1)
+# Employees hiring date "A date. Format: MM/DD/YYYY"
+hire_date DATE
+
+Titles
+-----------------------------------------------------------------------------------------------------
+# Employees title ID "Primary Keys, A FIXED length string e.g. e0002"
+title_id PK CHAR(5)
+# Employees title Name "A VARIABLE length string e.g. Technique Leader"
+title VARCHAR(30)
