@@ -20,5 +20,5 @@ $\space \mathtt{\color{purple}3.}$ Data Analysis
 
 Create $\space \mathtt{\color{purple}E}$ ntity $\space \mathtt{\color{purple}R}$ elationship $\space \mathtt{\color{purple}D}$ iagram
 <p align="center">
-<img src="https://github.com/theidari/sql-challenge/blob/main/QuickDBD-export.svg" width="1100px" height="500px">
+<img src="https://raw.githubusercontent.com/theidari/sql-challenge/7bccc113459a2c1cc2fc5461d92190374ebbe2b5/QuickDBD-export.svg" width="1100px" height="500px">
 </p>
