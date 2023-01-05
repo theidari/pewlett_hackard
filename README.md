@@ -18,6 +18,9 @@ $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
 </p>
 
+<p align="left">
+<img src="https://github.com/theidari/sql-challenge/blob/main/Design/project_overview2%20.png" width="120px"">
+</p>
 
 <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"><b>Entity-Relationship Diagrams (ERD)</b></a> was used as basic modeling technique in this project. This technique was performed using <a href="https://www.quickdatabasediagrams.com/"><b>QUICK DBD</b></a> app. ERD identified six employee database entities such as $\space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Managers}$, $\space \mathsf{\color{purple}Salaries}$, $\space \mathsf{\color{purple}Titles}$, $\space \mathsf{\color{purple}Department}$. The result of the modeling was drawn in figure [1].
 
