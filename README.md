@@ -19,11 +19,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"><b>Entity-Relationship Diagrams (ERD)</b></a> was used as basic modeling technique in this project. This technique was performed using <a href="https://www.quickdatabasediagrams.com/"><b>QUICK DBD</b></a> app. ERD identified six employee database entities such as $\space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Managers}$, $\space \mathsf{\color{purple}Salaries}$, $\space \mathsf{\color{purple}Titles}$, $\space \mathsf{\color{purple}Department}$. The result of the modeling was drawn in figure [1].
 
+<h6 align="center">Fig[1] Entity-Relationship Diagrams</h6>
 <p align="center">
 <img src="https://raw.githubusercontent.com/theidari/sql-challenge/b19249f89ee566387a579f1f07daf2cdfa4573f5/OutputData/Data%20Modeling%20(Entity%20Relationship%20Diagram)/Pewlett_Hackard_ERD.svg" width="760px" height="500px">
 </p>
 
-Data Analysis:
+<p align="center">
+<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
+</p>
+<h3>2. Data Engineering</h3>
+
+<p align="center">
+<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
+</p>
+<h3>3. Data Analysis</h3>
 
 1. List the employee number, last name, first name, sex, and salary of each employee
 ```SQL
