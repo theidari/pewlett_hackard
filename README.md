@@ -8,15 +8,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Project discusses an exploration on the people database who employed at Pewlett Hackard (a fictional company) during the <b>1980s</b> and <b>1990s</b>. There are only six CSV records remaining in the employee database from that period.
 
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
-
-
-This project is divided into three parts:
-<p align="center">
+$\space \mathbf{\color{purple}\langle}\space \mathbf{\color{purple}Objective: }$ Design the tables to store the data from the CSV files, import the CSV files into a SQL database, and then answer data-related questions in 
 $\space \mathtt{\color{purple}1.}$ Data Modeling
 $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
-</p>
+parts. $\space \mathbf{\color{purple}\rangle}$
+
+<h4>Methods, Software and Attribution</h4>
 
 <p align="left">
 <img src="https://github.com/theidari/sql-challenge/blob/main/Design/project_overview2%20.png" width="120px"">
