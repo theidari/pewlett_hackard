@@ -15,7 +15,7 @@
 <p align="center">
 <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
 </p>
-<h4>【Data Modeling】</h4>
+<h3>✦ Data Modeling</h3>
 
 <p align="left">
 <img src="https://github.com/theidari/sql-challenge/blob/main/Design/project_overview2%20.png" width="120px"">
