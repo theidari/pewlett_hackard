@@ -8,11 +8,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This Project discusses an exploration on the people database who employed at Pewlett Hackard (a fictional company) during the <b>1980s</b> and <b>1990s</b>. There are only six CSV records remaining in the employee database from that period.
 
-$\space \mathbf{\color{purple}\langle}\space \mathbf{\color{purple}Objective: }$ Design the tables to store the data from the CSV files, import the CSV files into a SQL database, and then answer data-related questions in 
+<p align="center">
+$\space \mathbf{\color{purple}\langle}\space \mathbf{\color{purple}Objective}\space \mathbf{\color{purple}\rangle}$</br>
+Design the tables to store the data from the CSV files, import the CSV files into a SQL database, and then answer data-related questions in 
 $\space \mathtt{\color{purple}1.}$ Data Modeling
 $\space \mathtt{\color{purple}2.}$ Data Engineering
 $\space \mathtt{\color{purple}3.}$ Data Analysis
-parts. $\space \mathbf{\color{purple}\rangle}$
+parts.
+</p>
 
 <h4>Methods, Software and Attribution</h4>
 
