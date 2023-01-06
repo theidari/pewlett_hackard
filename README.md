@@ -12,6 +12,9 @@
 <img src="https://github.com/theidari/sql-challenge/blob/main/Design/Objective.png" width="550">
 </p>
 
+<p align="center">
+<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
+</p>
 <h4>Methods, Software and Attribution</h4>
 
 <p align="left">
