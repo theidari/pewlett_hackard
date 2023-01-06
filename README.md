@@ -25,7 +25,7 @@ $\space \mathtt{\color{purple}3.}$ Data Analysis
 <a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"><b>Entity-Relationship Diagrams (ERD)</b></a> was used as basic modeling technique in this project. This technique was performed using <a href="https://www.quickdatabasediagrams.com/"><b>QUICK DBD</b></a> app. ERD identified six employee database entities such as $\space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Managers}$, $\space \mathsf{\color{purple}Salaries}$, $\space \mathsf{\color{purple}Titles}$, $\space \mathsf{\color{purple}Department}$. The result of the modeling was drawn in figure [1].
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/theidari/sql-challenge/77abfdda38573ef62a75b2e2326de7114bedfba0/OutputData/Entity%20Relationship%20Diagram/Pewlett_Hackard_ERD.svg" width="760px" height="500px">
+<img src="https://raw.githubusercontent.com/theidari/sql-challenge/b19249f89ee566387a579f1f07daf2cdfa4573f5/OutputData/Data%20Modeling%20(Entity%20Relationship%20Diagram)/Pewlett_Hackard_ERD.svg" width="760px" height="500px">
 </p>
 
 Data Analysis:
