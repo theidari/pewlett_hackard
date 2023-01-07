@@ -22,15 +22,15 @@
 <img src="https://raw.githubusercontent.com/theidari/sql-challenge/b19249f89ee566387a579f1f07daf2cdfa4573f5/OutputData/Data%20Modeling%20(Entity%20Relationship%20Diagram)/Pewlett_Hackard_ERD.svg" width="760px" height="500px">
 </p>
 
-<p align="center">
-<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
-</p>
-<h3>2. Data Engineering</h3>
 
-<p align="center">
-<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
-</p>
-<h3>3. Data Analysis</h3>
+### 2. Data Engineering <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="660">
+
+<a href="https://github.com/theidari/sql-challenge/blob/main/EmployeeSQL/2.%20Data%20Engineering/Pewlett_Hackard_Tabel_Import.sql
+"><b>Creat a Table and Import Data</b></a>
+
+
+
+### 3. Data Analysis <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="670">
 
 1. List the employee number, last name, first name, sex, and salary of each employee
 ```SQL
