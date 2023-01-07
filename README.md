@@ -12,10 +12,8 @@
 <img src="https://github.com/theidari/sql-challenge/blob/main/Design/Objective.png" width="550">
 </p>
 
-<p align="center">
-<img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="900">
-</p>
-<h3>1. Data Modeling</h3>
+
+### 1. Data Modeling <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="800">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model"><b>Entity-Relationship Diagrams (ERD)</b></a> was used as basic modeling technique in this project. This technique was performed using <a href="https://www.quickdatabasediagrams.com/"><b>QUICK DBD</b></a> app. ERD identified six employee database entities such as $\space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Employees}$, $\space \mathsf{\color{purple}Department} \space \mathsf{\color{purple}Managers}$, $\space \mathsf{\color{purple}Salaries}$, $\space \mathsf{\color{purple}Titles}$, $\space \mathsf{\color{purple}Department}$. The result of the modeling was drawn in figure [1].
 
