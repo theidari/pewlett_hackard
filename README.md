@@ -30,7 +30,7 @@
 
 
 
-### 3. Data Analysis <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="670">
+### 3. Data Analysis <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="680">
 
 1. List the employee number, last name, first name, sex, and salary of each employee
 ```SQL
