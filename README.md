@@ -23,7 +23,7 @@
 </p>
 
 
-### 2. Data Engineering <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="655">
+### 2. Data Engineering <img src="https://github.com/theidari/sql-challenge/blob/main/Design/purple_break_line.png" width="645">
 
 <a href="https://github.com/theidari/sql-challenge/blob/main/EmployeeSQL/2.%20Data%20Engineering/Pewlett_Hackard_Tabel_Import.sql
 "><b>Creat a Table and Import Data</b></a>
