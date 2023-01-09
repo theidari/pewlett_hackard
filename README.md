@@ -41,7 +41,7 @@ FROM employees e JOIN salaries s ON e.emp_no = s.emp_no;
 ```SQL
 SELECT  e.first_name, e.last_name, e.hire_date
 FROM employees e 
-WHERE e.hire_date BETWEEN '1986-1-1' AND '1987-1-1';
+WHERE e.hire_date BETWEEN '1986-1-1' AND '1986-12-31';
 ```
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name
 ```SQL
